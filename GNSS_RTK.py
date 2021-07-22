@@ -12,14 +12,15 @@ from datetime import date
 
 def initial():
 
-	global R,a,b,x_base,y_base,z_base,latitude_base,longitude_base,dis_list,x_values,y_values,mean,stdev,theta_list
-
+    global R,a,b,x_base,y_base,z_base,latitude_base,longitude_base,dis_list,x_values,y_values,mean,stdev,theta_list
+    #Earth parameters
     R = 6371000
     a = 6378137.0
     b = 6356752.3142
     index = 0
     order = 0
-
+    #Base's position
+    #Change them after survey-in
     x_base = -1796509.3072
     y_base = 6003425.8748
     z_base = 1184322.8353
