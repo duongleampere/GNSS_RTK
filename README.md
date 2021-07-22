@@ -4,9 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/69660620/126601303-47529e00-a86e-44fc-b976-4b057addaa89.png)
 
-Structure of GGA message: $xxGGA,time,lat,NS,lon,EW,quality,numSV,HDOP,alt,altUnit,sep,sepUnit,diffAge,diffStation*cs\r\n
+# Structure of GGA message: $xxGGA,time,lat,NS,lon,EW,quality,numSV,HDOP,alt,altUnit,sep,sepUnit,diffAge,diffStation*cs\r\n
 
-#Sampling results
+# Sampling results
 
 ![0](https://user-images.githubusercontent.com/69660620/126601704-6dd4fc98-9f2c-48c4-8534-d91d9ffc611a.png)
 
